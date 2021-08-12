@@ -1,0 +1,1501 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 3962 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Ngeti Mdindi/OneDrive/Desktop/Op Rah
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+49926
+Successfully changed project path to: C:/Users/Ngeti Mdindi/OneDrive/Desktop/Op Rah
+C:/Users/Ngeti Mdindi/OneDrive/Desktop/Op Rah
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1014.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Ngeti Mdindi/OneDrive/Desktop/Op Rah/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     1981 MB
+    Driver:   23.20.16.4973
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004578 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 100.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.248 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010939 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.215 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.49 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1549 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2010.
+Total: 5.130100 ms (FindLiveObjects: 0.297600 ms CreateObjectMapping: 0.114700 ms MarkObjects: 4.358500 ms  DeleteObjects: 0.357200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_TerrainAutoUpgrade
+  artifactKey: Guid(8565797a4f8b4654f80ea09704c4f9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade using Guid(8565797a4f8b4654f80ea09704c4f9a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb2a1e9b30a87f395aeffab04cd1eb0') in 0.221102 seconds
+  Import took 0.262106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.151834 seconds.
+  path: Assets/Unity UI Samples/Scenes
+  artifactKey: Guid(137fe1b78810a81498d835be344f2d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity UI Samples/Scenes using Guid(137fe1b78810a81498d835be344f2d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395760d0b6cc5812ae63e3c342403676') in 0.127595 seconds
+  Import took 0.156228 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.061252 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1458 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.9 MB.
+System memory in use after: 114.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2013.
+Total: 6.637500 ms (FindLiveObjects: 1.029200 ms CreateObjectMapping: 0.428000 ms MarkObjects: 5.025500 ms  DeleteObjects: 0.152200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 179.284660 seconds.
+  path: Assets/Attack Helicopter2/Mi24.fbx
+  artifactKey: Guid(1102787bb5eb2874385b8e60f5f342ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Helicopter2/Mi24.fbx using Guid(1102787bb5eb2874385b8e60f5f342ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942e52aad7721b4459af909bbd73b8b7') in 2.868285 seconds
+  Import took 2.960320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Attack Helicopter2/Mi24.fbm
+  artifactKey: Guid(ac67159a5bf404a4d90c26523f0c3277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Helicopter2/Mi24.fbm using Guid(ac67159a5bf404a4d90c26523f0c3277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fac603acf039d590ae410720c28d7a8') in 0.083284 seconds
+  Import took 0.097361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Attack Helicopter2/Mi24.fbm/1K_Mi24_TXTR.tif
+  artifactKey: Guid(0743124e27cf1204192436ca68c9378b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Helicopter2/Mi24.fbm/1K_Mi24_TXTR.tif using Guid(0743124e27cf1204192436ca68c9378b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b39eca765f7290a4493b67db6f86f56') in 0.619041 seconds
+  Import took 0.647795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Attack Helicopter2/Materials/1K_Mi24_TXTR.mat
+  artifactKey: Guid(324493c780db27a4ba02b9de132980b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Helicopter2/Materials/1K_Mi24_TXTR.mat using Guid(324493c780db27a4ba02b9de132980b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0454de8a35bc66dae353302382404cb') in 1.793145 seconds
+  Import took 1.826259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000807 seconds.
+  path: Assets/Attack Helicopter2/Textures
+  artifactKey: Guid(31affd183aa53624fb822220633333c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Helicopter2/Textures using Guid(31affd183aa53624fb822220633333c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8367200d8a3daac547d7e4035b068740') in 0.150950 seconds
+  Import took 0.171047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000859 seconds.
+  path: Assets/Attack Helicopter2/Textures/1K_Mi24_TXTR.tif
+  artifactKey: Guid(7110f0db09e477a4f97fb8c5c56cc079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Helicopter2/Textures/1K_Mi24_TXTR.tif using Guid(7110f0db09e477a4f97fb8c5c56cc079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1874299b893102e39ee15339a401a6ee') in 0.247159 seconds
+  Import took 0.449322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000771 seconds.
+  path: Assets/Attack Helicopter2/Materials
+  artifactKey: Guid(db6b883d2dbbc7641803098504a2623d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Attack Helicopter2/Materials using Guid(db6b883d2dbbc7641803098504a2623d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6dceffcdc18a1f2da8339956a3651f4') in 0.105987 seconds
+  Import took 0.201745 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.299909 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.862 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1459 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.5 MB.
+System memory in use after: 117.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2061.
+Total: 5.958300 ms (FindLiveObjects: 0.449000 ms CreateObjectMapping: 0.196100 ms MarkObjects: 5.053000 ms  DeleteObjects: 0.255900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 906.158757 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grass_flowerse32965c36f070e45.terrainlayer
+  artifactKey: Guid(40e964bddefb4554884ced4b618cb4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grass_flowerse32965c36f070e45.terrainlayer using Guid(40e964bddefb4554884ced4b618cb4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d06a71500486c53a3d8f00c922f199c') in 0.719096 seconds
+  Import took 0.756331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000753 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground_stonee32965c36f070e45.terrainlayer
+  artifactKey: Guid(4064f473e8d95fc4da7eccefa92660db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground_stonee32965c36f070e45.terrainlayer using Guid(4064f473e8d95fc4da7eccefa92660db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016a833c197b759543f315bd374ed3cb') in 0.135270 seconds
+  Import took 0.142077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grasse32965c36f070e45.terrainlayer
+  artifactKey: Guid(da5bba4fbbed2b040873108566dc7d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grasse32965c36f070e45.terrainlayer using Guid(da5bba4fbbed2b040873108566dc7d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6ba358a87efdb5fba298fdb7898607') in 0.129270 seconds
+  Import took 0.151106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Grounde32965c36f070e45.terrainlayer
+  artifactKey: Guid(ccb4e799c2973ed499778046fac2e31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Grounde32965c36f070e45.terrainlayer using Guid(ccb4e799c2973ed499778046fac2e31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dbb6110ed2c41737bcd36e289b78a9a') in 0.117359 seconds
+  Import took 0.141555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Roadcc0f254a2c535401.terrainlayer
+  artifactKey: Guid(b6682403f40bbc646a5a151efb35fb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Roadcc0f254a2c535401.terrainlayer using Guid(b6682403f40bbc646a5a151efb35fb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59abdd815714803883706b1bbb987240') in 0.105593 seconds
+  Import took 0.110973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Stone_rotatedcc0f254a2c535401.terrainlayer
+  artifactKey: Guid(93de1b36a88b93148881b322f4655a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Stone_rotatedcc0f254a2c535401.terrainlayer using Guid(93de1b36a88b93148881b322f4655a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2652933972f5c436caf18e124d6cf6c') in 0.110483 seconds
+  Import took 0.129256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Stonecc0f254a2c535401.terrainlayer
+  artifactKey: Guid(925afad9f8565794e8ddd1385475f189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Stonecc0f254a2c535401.terrainlayer using Guid(925afad9f8565794e8ddd1385475f189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61156555683b8b1e52f3105c231cb9bf') in 0.116499 seconds
+  Import took 0.122849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Road_grasscc0f254a2c535401.terrainlayer
+  artifactKey: Guid(1a67e0faf15112d418e3993861b63462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Road_grasscc0f254a2c535401.terrainlayer using Guid(1a67e0faf15112d418e3993861b63462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99fb4876bcff31a196d53e80501313ef') in 0.141458 seconds
+  Import took 0.150347 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.242630 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.177 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1459 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.5 MB.
+System memory in use after: 117.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2066.
+Total: 8.725100 ms (FindLiveObjects: 0.672700 ms CreateObjectMapping: 0.261700 ms MarkObjects: 7.365500 ms  DeleteObjects: 0.417400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.927525 seconds.
+  path: Assets/AK Pack FREE/Demo Scene/Demo.unity
+  artifactKey: Guid(9ea42ce87b1ec1542ac3e0a91fda41e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Pack FREE/Demo Scene/Demo.unity using Guid(9ea42ce87b1ec1542ac3e0a91fda41e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98445166eca4e21b40067a7af8a1fe18') in 0.078615 seconds
+  Import took 0.099500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/AK Pack FREE/Demo Scene
+  artifactKey: Guid(9c8044a661ab31349916ff99481f1f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AK Pack FREE/Demo Scene using Guid(9c8044a661ab31349916ff99481f1f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93a02e39799077f541f838c21d4bcf6') in 0.287180 seconds
+  Import took 0.295578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.307344 seconds.
+  path: Assets/Avatars_Animations_Bible_Demo/Avatars_Animations_Bible_Demo.unity
+  artifactKey: Guid(5cc008346dc33a542810477bdd29914f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Avatars_Animations_Bible_Demo/Avatars_Animations_Bible_Demo.unity using Guid(5cc008346dc33a542810477bdd29914f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b35d58dd96c2eda7ccd45e79c44821a') in 0.089711 seconds
+  Import took 0.121779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.985427 seconds.
+  path: Assets/Avatars_Animations_Bible_Demo/Avatars_Animations_Bible_Demo.unity
+  artifactKey: Guid(5cc008346dc33a542810477bdd29914f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Avatars_Animations_Bible_Demo/Avatars_Animations_Bible_Demo.unity using Guid(5cc008346dc33a542810477bdd29914f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b35d58dd96c2eda7ccd45e79c44821a') in 0.049711 seconds
+  Import took 0.069648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.669714 seconds.
+  path: Assets/Conifers [BOTD]/Conifers [BOTD] URP.unitypackage
+  artifactKey: Guid(2b43184afc73ac64d9bfb74962236298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Conifers [BOTD] URP.unitypackage using Guid(2b43184afc73ac64d9bfb74962236298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '788d4e239634b1dc11b0eba83e75a956') in 0.143107 seconds
+  Import took 0.212407 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009958 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.475 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.0 MB.
+System memory in use after: 118.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2068.
+Total: 4.633900 ms (FindLiveObjects: 0.335500 ms CreateObjectMapping: 0.098700 ms MarkObjects: 4.014000 ms  DeleteObjects: 0.182400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.761197 seconds.
+  path: Assets/Cute Birds/Scene
+  artifactKey: Guid(0d5a254ef0c3e4d43ba53abe9ba53cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cute Birds/Scene using Guid(0d5a254ef0c3e4d43ba53abe9ba53cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5227ad851e20831577f4497d1a1d5e2') in 0.043830 seconds
+  Import took 0.050918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001370 seconds.
+  path: Assets/Cute Birds/Scene
+  artifactKey: Guid(0d5a254ef0c3e4d43ba53abe9ba53cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cute Birds/Scene using Guid(0d5a254ef0c3e4d43ba53abe9ba53cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5227ad851e20831577f4497d1a1d5e2') in 0.005782 seconds
+  Import took 0.014773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.031565 seconds.
+  path: Assets/Cute Birds/Scene/Main Scene.unity
+  artifactKey: Guid(bf2339cec6bf69c40b9a76fba154b91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cute Birds/Scene/Main Scene.unity using Guid(bf2339cec6bf69c40b9a76fba154b91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7390ce02906a496574a757a472ecb1') in 0.092269 seconds
+  Import took 0.220549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.678458 seconds.
+  path: Assets/Plugins/Wolf3D
+  artifactKey: Guid(3a0ef4c40b44c08449bd1881374239af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D using Guid(3a0ef4c40b44c08449bd1881374239af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2adbf0d4d7b6a61c18bcce4dc1fd53d') in 0.021347 seconds
+  Import took 0.054857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.004714 seconds.
+  path: Assets/SkythianCat/Glowing_Forest
+  artifactKey: Guid(15e4d63b294ef7744b60940d46ee8a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest using Guid(15e4d63b294ef7744b60940d46ee8a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82449bae2b9e5d92a1401f4a178141b0') in 0.021346 seconds
+  Import took 0.056105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.232561 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_terrain.asset
+  artifactKey: Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_terrain.asset using Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097dab429c98416b33fdcf4626e6e38c') in 3.185612 seconds
+  Import took 3.314616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000694 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO
+  artifactKey: Guid(6a8a3097dced27040ad8564b444d0eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO using Guid(6a8a3097dced27040ad8564b444d0eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cc68020743f52a0edda562a380ed91') in 0.045513 seconds
+  Import took 0.053744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.463227 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_terrain.asset
+  artifactKey: Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_terrain.asset using Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097dab429c98416b33fdcf4626e6e38c') in 0.435900 seconds
+  Import took 0.445552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene01.unity
+  artifactKey: Guid(5d3ac0950c1edbb4890df7d2fbd3734b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene01.unity using Guid(5d3ac0950c1edbb4890df7d2fbd3734b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05af82029b164b2dbb8cd8cb14b72382') in 0.016868 seconds
+  Import took 0.038477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.205331 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene02.unity
+  artifactKey: Guid(2912b4d107388144d8e57396301eafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene02.unity using Guid(2912b4d107388144d8e57396301eafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5438d92a78401e280993cc1a0a8758be') in 0.038157 seconds
+  Import took 0.067004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064235 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene02.unity
+  artifactKey: Guid(2912b4d107388144d8e57396301eafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene02.unity using Guid(2912b4d107388144d8e57396301eafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5438d92a78401e280993cc1a0a8758be') in 0.018564 seconds
+  Import took 0.030151 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.144789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.423 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 118.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2076.
+Total: 5.668700 ms (FindLiveObjects: 0.384300 ms CreateObjectMapping: 0.129400 ms MarkObjects: 4.985400 ms  DeleteObjects: 0.166600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009005 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.235 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 118.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2079.
+Total: 3.799100 ms (FindLiveObjects: 0.382500 ms CreateObjectMapping: 0.114200 ms MarkObjects: 3.106400 ms  DeleteObjects: 0.194100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012414 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.468 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 118.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2082.
+Total: 3.623300 ms (FindLiveObjects: 0.314900 ms CreateObjectMapping: 0.098900 ms MarkObjects: 3.068200 ms  DeleteObjects: 0.140100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 423.967066 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_terrain.asset
+  artifactKey: Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_terrain.asset using Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84118387083a706f0df7389e99a97b0b') in 1.423540 seconds
+  Import took 1.450326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.978233 seconds.
+  path: Assets/Fantasy Forest Environment Free Sample/PostProcessing Profile.asset
+  artifactKey: Guid(84e004e54aa75074885db0856eedb697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Forest Environment Free Sample/PostProcessing Profile.asset using Guid(84e004e54aa75074885db0856eedb697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810decc7507897804d85d8dd5d5ff6f7') in 0.129663 seconds
+  Import took 0.139562 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.560 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 118.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2084.
+Total: 3.796900 ms (FindLiveObjects: 0.350700 ms CreateObjectMapping: 0.119900 ms MarkObjects: 2.726100 ms  DeleteObjects: 0.598100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.647700 seconds.
+  path: Assets/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset
+  artifactKey: Guid(02bc0e2176f6a4e4ea3faf0c622664cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset using Guid(02bc0e2176f6a4e4ea3faf0c622664cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a21c136a08164ad3e09049ad629459') in 0.291537 seconds
+  Import took 0.316763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.724559 seconds.
+  path: Assets/Fantasy Forest Environment Free Sample/Scenes/demoScene_free.unity
+  artifactKey: Guid(7769f33fb4fa2e5458344a36556ad760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Forest Environment Free Sample/Scenes/demoScene_free.unity using Guid(7769f33fb4fa2e5458344a36556ad760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8a28ebbca73aa73923fb5ead1b2f86') in 0.021888 seconds
+  Import took 0.027374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.990284 seconds.
+  path: Assets/Fantasy Forest Environment Free Sample/Scenes/assets.unity
+  artifactKey: Guid(a143ab047b99a124ca579bc8e0366cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Forest Environment Free Sample/Scenes/assets.unity using Guid(a143ab047b99a124ca579bc8e0366cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c021565b6164ef42f96ba9a04df2079') in 8.761448 seconds
+  Import took 8.805563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.742155 seconds.
+  path: Assets/Fantasy Forest Environment Free Sample/Scenes/assets.unity
+  artifactKey: Guid(a143ab047b99a124ca579bc8e0366cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Forest Environment Free Sample/Scenes/assets.unity using Guid(a143ab047b99a124ca579bc8e0366cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c021565b6164ef42f96ba9a04df2079') in 0.008848 seconds
+  Import took 0.023473 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.162267 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.183 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2090.
+Total: 7.407400 ms (FindLiveObjects: 0.362900 ms CreateObjectMapping: 0.114900 ms MarkObjects: 6.039000 ms  DeleteObjects: 0.878500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010979 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.830 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2093.
+Total: 5.957800 ms (FindLiveObjects: 0.334700 ms CreateObjectMapping: 0.103600 ms MarkObjects: 5.378600 ms  DeleteObjects: 0.138400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 936.380468 seconds.
+  path: Assets/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset
+  artifactKey: Guid(02bc0e2176f6a4e4ea3faf0c622664cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Forest Environment Free Sample/Scenes/New Terrain.asset using Guid(02bc0e2176f6a4e4ea3faf0c622664cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3959ae8709f5e5579ec0d4a8e793e0a7') in 0.443590 seconds
+  Import took 0.451432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.816829 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene01.unity
+  artifactKey: Guid(5d3ac0950c1edbb4890df7d2fbd3734b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene01.unity using Guid(5d3ac0950c1edbb4890df7d2fbd3734b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19847d9792ad6de488db7f3cc9245343') in 0.018149 seconds
+  Import took 0.023773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 241.790302 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene02.unity
+  artifactKey: Guid(2912b4d107388144d8e57396301eafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/DEMO/Demo_scene02.unity using Guid(2912b4d107388144d8e57396301eafe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde370954f2a32bd2f9d07f151f6c10a') in 0.047601 seconds
+  Import took 0.072613 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005942 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.219 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2096.
+Total: 4.031500 ms (FindLiveObjects: 0.372300 ms CreateObjectMapping: 0.126700 ms MarkObjects: 3.381000 ms  DeleteObjects: 0.149100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007520 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.390 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2099.
+Total: 22.900400 ms (FindLiveObjects: 0.261000 ms CreateObjectMapping: 0.079900 ms MarkObjects: 22.345900 ms  DeleteObjects: 0.211000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.404553 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/LightingData.asset
+  artifactKey: Guid(200a069b323db944e9d7ddcaac5d2e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/LightingData.asset using Guid(200a069b323db944e9d7ddcaac5d2e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62789490e991d71bbb4517298ff2fcc7') in 0.264165 seconds
+  Import took 0.283688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_light.exr
+  artifactKey: Guid(de419b8d4c1eeea40bbcac40588d09d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_light.exr using Guid(de419b8d4c1eeea40bbcac40588d09d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a5b21e9f5bbb0878f509aff6e85ca2') in 1.063186 seconds
+  Import took 1.103725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_shadowmask.png
+  artifactKey: Guid(2674de0371a184d40b9cec7b6ff4cc65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_shadowmask.png using Guid(2674de0371a184d40b9cec7b6ff4cc65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b78ba220f27a95c861d80ad928189e2') in 1.173657 seconds
+  Import took 1.212408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample
+  artifactKey: Guid(d8f3d16657401414d97e6d39fb651f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample using Guid(d8f3d16657401414d97e6d39fb651f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ae81b7ccb345dc40927ec984cf5e73') in 0.077590 seconds
+  Import took 0.087185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_dir.png
+  artifactKey: Guid(1d07dbadf4f6b414fa419d05809c4a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/Lightmap-0_comp_dir.png using Guid(1d07dbadf4f6b414fa419d05809c4a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94be2dec618bea2cf1990773553f874') in 0.177411 seconds
+  Import took 0.191374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-0.exr
+  artifactKey: Guid(2ac5c2cbeb35c48409b543066edbb261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-0.exr using Guid(2ac5c2cbeb35c48409b543066edbb261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be507bb55fc5b183f7e1b75182d86cc3') in 0.931644 seconds
+  Import took 0.967223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001075 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-1.exr
+  artifactKey: Guid(40435fc42405f914fbe96c5ed018bbe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes/Wolf3DSample/ReflectionProbe-1.exr using Guid(40435fc42405f914fbe96c5ed018bbe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83639a3e2e7e54b11459d6c1c48d963b') in 0.281769 seconds
+  Import took 0.308736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.178599 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples
+  artifactKey: Guid(30eb326e40ccc364abf77c547579dc20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples using Guid(30eb326e40ccc364abf77c547579dc20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89faa233bf758700b49bb0ab6133a252') in 0.033674 seconds
+  Import took 0.055021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.708973 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI
+  artifactKey: Guid(6d1a45ca20062c94286ab33aa82d1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI using Guid(6d1a45ca20062c94286ab33aa82d1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd4b4f33829e0708e1a2fe8df982e64') in 0.107922 seconds
+  Import took 0.119703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000672 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/shanghai_bund_2k.hdr
+  artifactKey: Guid(65dfe30d2a62263438b129ef709a26a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/shanghai_bund_2k.hdr using Guid(65dfe30d2a62263438b129ef709a26a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6a5a474827dada35298bb917ccb0d2') in 0.552049 seconds
+  Import took 0.565974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000884 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/HDRI_Skybox.mat
+  artifactKey: Guid(2965e88e99cf9f14b89746736f9939ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Examples/HDRI/HDRI_Skybox.mat using Guid(2965e88e99cf9f14b89746736f9939ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac296fe68a5c3de2c4a9262321e2f08') in 0.438603 seconds
+  Import took 0.455074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.631784 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials
+  artifactKey: Guid(12b97ae594d33354385317abd6ff5270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials using Guid(12b97ae594d33354385317abd6ff5270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71dbb29c86bc2643cbf3b4cf2b7f562') in 0.103286 seconds
+  Import took 0.128759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000863 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Male_05_Glasses.mat
+  artifactKey: Guid(ba660f0c5de27fe48b2ceca7b0538c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Male_05_Glasses.mat using Guid(ba660f0c5de27fe48b2ceca7b0538c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65566fa881bfd2f6a64dd85539ed2a7') in 0.293256 seconds
+  Import took 0.303936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Male_03_Glasses.mat
+  artifactKey: Guid(e8707e5375e1ebf4c8da558457fe8825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Male_03_Glasses.mat using Guid(e8707e5375e1ebf4c8da558457fe8825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856df27ad645d88943176e69d6f504b3') in 0.149856 seconds
+  Import took 0.160602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Ground.mat
+  artifactKey: Guid(e57c7db151ba9c54da4d484b6de73b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Ground.mat using Guid(e57c7db151ba9c54da4d484b6de73b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf74c04cd06e3235a1ecfbfd07bfcabe') in 0.164620 seconds
+  Import took 0.196527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000771 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_05_Glasses.mat
+  artifactKey: Guid(c77bb14403549764ea67f00576ee7dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_05_Glasses.mat using Guid(c77bb14403549764ea67f00576ee7dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7b839d85789ca0671112892f2e8663') in 2.315087 seconds
+  Import took 2.331056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models
+  artifactKey: Guid(939135b746000d442acfe31498f9b03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models using Guid(939135b746000d442acfe31498f9b03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a172f74f8db2ee11520533068e6f2c') in 0.037060 seconds
+  Import took 0.043666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_03_Glasses.mat
+  artifactKey: Guid(8619e18f7ccad8c40bf52d00b6cb5fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Female_03_Glasses.mat using Guid(8619e18f7ccad8c40bf52d00b6cb5fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d53f1bd196271f4d7334cec201275d') in 0.369054 seconds
+  Import took 0.377439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000674 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Teeth.mat
+  artifactKey: Guid(46854f9218c656d4893058b6d8248e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Teeth.mat using Guid(46854f9218c656d4893058b6d8248e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b072b2485a8bed240075175a5d587c') in 0.227861 seconds
+  Import took 0.237840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001151 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Background.mat
+  artifactKey: Guid(03940e6c82cd5474c973192fcd4e7773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Materials/Background.mat using Guid(03940e6c82cd5474c973192fcd4e7773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6f2b6cab2b09692c44ca4beb028d0b') in 0.130004 seconds
+  Import took 0.139424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.339887 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene/BG_drop.fbx
+  artifactKey: Guid(9fc0ac94f45cca24ca4cb951a030ffd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene/BG_drop.fbx using Guid(9fc0ac94f45cca24ca4cb951a030ffd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4196e27b0d8f78fcfb10d020fb36bf23') in 0.971833 seconds
+  Import took 1.008131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene
+  artifactKey: Guid(b093259227cd2614e87ab02fff2cd63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/Scene using Guid(b093259227cd2614e87ab02fff2cd63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7704399586020e50dec6ae9919ef4bc3') in 0.058658 seconds
+  Import took 0.070491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.655859 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits
+  artifactKey: Guid(477bb804fdc8ac447976fd7737b7e593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits using Guid(477bb804fdc8ac447976fd7737b7e593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbb014dab5043a8942bf06561ac30ff') in 0.064069 seconds
+  Import took 0.094698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.262704 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1
+  artifactKey: Guid(4d1801d393cc9dd4ea430056b4b6e609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1 using Guid(4d1801d393cc9dd4ea430056b4b6e609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9f086a3b0f5999e274e446972503e82') in 0.075387 seconds
+  Import took 0.084182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.027363 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Glasses.mat
+  artifactKey: Guid(160579600a8d43d409925ba30f80580f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Glasses.mat using Guid(160579600a8d43d409925ba30f80580f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4495e7d254e15f5ff4a049c8dbc0fe12') in 0.193617 seconds
+  Import took 0.220760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000754 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Pants.mat
+  artifactKey: Guid(5607a07480ed9c945b77cdae1c1bdbd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Pants.mat using Guid(5607a07480ed9c945b77cdae1c1bdbd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ae2fe22d32ea7b88e23f3e800a957e') in 0.960966 seconds
+  Import took 0.972323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000762 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Shoes.mat
+  artifactKey: Guid(751b6cb6cede06d48ac631e0ff454024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Shoes.mat using Guid(751b6cb6cede06d48ac631e0ff454024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ee4eaaa89ce4d3dbd5c969e25e9c09') in 0.409272 seconds
+  Import took 0.419061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000766 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials
+  artifactKey: Guid(72617f2751b828b428626625f9cc296d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials using Guid(72617f2751b828b428626625f9cc296d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c6a6ed8b49eae409af919122730639') in 0.030695 seconds
+  Import took 0.072593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000851 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Shirt.mat
+  artifactKey: Guid(8e6c82a06093417419d73cf3c37f1d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Materials/Male_Outfit_01_Shirt.mat using Guid(8e6c82a06093417419d73cf3c37f1d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ca5306d3e1105a09250d82741b20f0') in 0.441791 seconds
+  Import took 0.456021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.784708 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures
+  artifactKey: Guid(2df356224e547b34c9a102f8fb4edf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures using Guid(2df356224e547b34c9a102f8fb4edf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5099b2f327dfa25eda45d6f556d3ad') in 0.088396 seconds
+  Import took 0.130440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000744 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shoes_S.png
+  artifactKey: Guid(5caaad6ff0e3a704fbe2b647a71437d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shoes_S.png using Guid(5caaad6ff0e3a704fbe2b647a71437d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad8b78068996fa63746a7899ea685c5') in 0.106635 seconds
+  Import took 0.114209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shirt.png
+  artifactKey: Guid(cc4d2a5778a8aba4c8f659f717406804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shirt.png using Guid(cc4d2a5778a8aba4c8f659f717406804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71eabb6cf54304cdc1bef5a1f24f0c78') in 0.110309 seconds
+  Import took 0.118571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants_S.png
+  artifactKey: Guid(126496cb087251b429313f28deb0b83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants_S.png using Guid(126496cb087251b429313f28deb0b83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e7555ceca7ab48a22be3b8ff656a3d') in 0.077621 seconds
+  Import took 0.082755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_01_V01_Glasses.png
+  artifactKey: Guid(18920c2e1278bf84392d9b3387bd7c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_01_V01_Glasses.png using Guid(18920c2e1278bf84392d9b3387bd7c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e6b1e108b321bab8a1638f34ae26be') in 0.229208 seconds
+  Import took 0.264321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000736 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shoes_N.png
+  artifactKey: Guid(a4eb7969911ba15459712bb97b645ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shoes_N.png using Guid(a4eb7969911ba15459712bb97b645ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3edace62c1ff9b574a9c3254db14c8b9') in 0.139559 seconds
+  Import took 0.147268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shirt_S.png
+  artifactKey: Guid(1b924aa84dfaa844d8a85f75eba62158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shirt_S.png using Guid(1b924aa84dfaa844d8a85f75eba62158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8144838ae3d99e7e6984e2a2f81b6e3') in 0.025445 seconds
+  Import took 0.032108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants.png
+  artifactKey: Guid(5b88dab931fcc5642b534c6d66d4d08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants.png using Guid(5b88dab931fcc5642b534c6d66d4d08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ece8e015ffe1dc46d5fc1dfba698b6') in 0.051252 seconds
+  Import took 0.075021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000592 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shoes.png
+  artifactKey: Guid(d706a1931a023f44696da418faf610ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shoes.png using Guid(d706a1931a023f44696da418faf610ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f46ee960d4fc7e012f95b4b445f8d7e') in 0.083211 seconds
+  Import took 0.119998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants.png
+  artifactKey: Guid(5b88dab931fcc5642b534c6d66d4d08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants.png using Guid(5b88dab931fcc5642b534c6d66d4d08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ece8e015ffe1dc46d5fc1dfba698b6') in 0.042583 seconds
+  Import took 0.048593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001062 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shirt_N.png
+  artifactKey: Guid(7fd5e6cbc3e23784bb6764225448b139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Shirt_N.png using Guid(7fd5e6cbc3e23784bb6764225448b139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9785a39ee9fcd19828ac2607f9a618b2') in 0.083715 seconds
+  Import took 0.088732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants_N.png
+  artifactKey: Guid(3df8fb99b91db7a4cbc13bd60d8c3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Outfits/Male Outfit 1/Textures/Male_Outfit_01_Pants_N.png using Guid(3df8fb99b91db7a4cbc13bd60d8c3db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b00ce09478e58e393d7800f3ce03595') in 0.088633 seconds
+  Import took 0.093320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.278389 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs
+  artifactKey: Guid(ee7bc0e942d2fe744b4d60baadad6232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs using Guid(ee7bc0e942d2fe744b4d60baadad6232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29fdd3989b55d10ca6e33a87ac44afec') in 0.075110 seconds
+  Import took 0.082442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.541395 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V01.prefab
+  artifactKey: Guid(e538ce5be5a517a43903fed4114f19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V01.prefab using Guid(e538ce5be5a517a43903fed4114f19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd015eb3c8fafcac8be435d942cbe88') in 3.550556 seconds
+  Import took 3.558696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V02.prefab
+  artifactKey: Guid(890b24cb9cc638147b1ecb0ad76bb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V02.prefab using Guid(890b24cb9cc638147b1ecb0ad76bb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932c8b2dd904bfb7297c686dd0b7db8b') in 2.102947 seconds
+  Import took 2.118208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V01.prefab
+  artifactKey: Guid(0afed582f01c71a4d9406ea526cdc7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V01.prefab using Guid(0afed582f01c71a4d9406ea526cdc7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a51eae14c78017865412f94d7a7d508e') in 0.798196 seconds
+  Import took 0.824800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female
+  artifactKey: Guid(52492531324ee0746a06006cfb2df1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female using Guid(52492531324ee0746a06006cfb2df1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c1288f8676715119af2143d2c04d3a') in 0.063537 seconds
+  Import took 0.080280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002012 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V01.prefab
+  artifactKey: Guid(e538ce5be5a517a43903fed4114f19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V01.prefab using Guid(e538ce5be5a517a43903fed4114f19e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd015eb3c8fafcac8be435d942cbe88') in 0.219650 seconds
+  Import took 0.236576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V01.prefab
+  artifactKey: Guid(2eb8f8e6ac0b42a4895e1b4844a3a1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V01.prefab using Guid(2eb8f8e6ac0b42a4895e1b4844a3a1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d71cc59945b773c0fc6ff5673718546') in 0.955584 seconds
+  Import took 0.970585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V01.prefab
+  artifactKey: Guid(2d1259920ab6bbe45b04fec3f7f490d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V01.prefab using Guid(2d1259920ab6bbe45b04fec3f7f490d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b8d08ba6e5eea708c3fee8f547ee2a') in 0.860705 seconds
+  Import took 0.897051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V02.prefab
+  artifactKey: Guid(0b370994ff1266140ad55b8b24ef039d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_04_V02.prefab using Guid(0b370994ff1266140ad55b8b24ef039d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1004010cb7d874589a70f8013b17aac') in 0.915693 seconds
+  Import took 0.929302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001238 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V01.prefab
+  artifactKey: Guid(e3499db628d04234ab4cb537b26cda6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_05_V01.prefab using Guid(e3499db628d04234ab4cb537b26cda6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab3879d417caa8a80bb8065c8994048') in 0.747890 seconds
+  Import took 0.783979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V02.prefab
+  artifactKey: Guid(eec2f43d2bd178a4c870b251bff8e62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_06_V02.prefab using Guid(eec2f43d2bd178a4c870b251bff8e62e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592efb3542d30fdcd96ff71adc8020be') in 0.993525 seconds
+  Import took 1.009706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000845 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V01.prefab
+  artifactKey: Guid(71bb1e3f87423f040a503675f8e80f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V01.prefab using Guid(71bb1e3f87423f040a503675f8e80f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171d0f517c96ddb64b360462498cc3bf') in 0.997505 seconds
+  Import took 1.016983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001017 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes
+  artifactKey: Guid(c10ca499d27b3ad439ad6caca47b6e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Scenes using Guid(c10ca499d27b3ad439ad6caca47b6e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9267897e2bc861f41e6939a268bf12ae') in 0.063820 seconds
+  Import took 0.093451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001733 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V02.prefab
+  artifactKey: Guid(207e70b096631b94587be9188cd3ad07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_01_V02.prefab using Guid(207e70b096631b94587be9188cd3ad07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c72f5642d0f3852d09df1fd8759208') in 0.795953 seconds
+  Import took 0.817115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000763 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V02.prefab
+  artifactKey: Guid(4c8fbf777ee1e0347a5fbb2ce748b3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_03_V02.prefab using Guid(4c8fbf777ee1e0347a5fbb2ce748b3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9207cede5a97bb14fb516de3a7ff4625') in 0.875167 seconds
+  Import took 0.890520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000798 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V02.prefab
+  artifactKey: Guid(61fed6d44d2bf67488e3e6659914c382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Female/Female_02_V02.prefab using Guid(61fed6d44d2bf67488e3e6659914c382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64bf15a67fb14e3247cb970bc296695') in 0.830883 seconds
+  Import took 0.844493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.575712 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack
+  artifactKey: Guid(8264281a0f6523f458bcbba58d1cfabe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack using Guid(8264281a0f6523f458bcbba58d1cfabe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '912804de39b59f61eea14dcf553d26b6') in 0.026053 seconds
+  Import took 0.035891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.858166 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V01.prefab
+  artifactKey: Guid(beb9e839b531a744c877a785deeaa302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V01.prefab using Guid(beb9e839b531a744c877a785deeaa302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f187e0a366bb85ea591bee07dc78afa5') in 0.902669 seconds
+  Import took 0.913945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V02.prefab
+  artifactKey: Guid(d22a4e793689c1c42863bc82ea7c61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V02.prefab using Guid(d22a4e793689c1c42863bc82ea7c61c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd471965c3545a9879f95e69a8ac60fba') in 1.182009 seconds
+  Import took 1.194027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000820 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V01.prefab
+  artifactKey: Guid(cfdeca144f90cd94cafba1202ea90251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V01.prefab using Guid(cfdeca144f90cd94cafba1202ea90251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e174eef587a17b0d45471dae3fc6ad18') in 1.014874 seconds
+  Import took 1.026106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V02.prefab
+  artifactKey: Guid(5e6b9bea6907a28428f58dc4c7921e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V02.prefab using Guid(5e6b9bea6907a28428f58dc4c7921e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3e8a9af7829bd8f814cd515d55b39c') in 0.710335 seconds
+  Import took 0.740679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000733 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V01.prefab
+  artifactKey: Guid(1ce6bdc03e86f854a86e058e1a9ee456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V01.prefab using Guid(1ce6bdc03e86f854a86e058e1a9ee456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501f13aad5c26e8084065fd95da452e0') in 0.866647 seconds
+  Import took 0.895317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000710 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V02.prefab
+  artifactKey: Guid(9342e78f4850070488bb798f3bbf8840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_02_V02.prefab using Guid(9342e78f4850070488bb798f3bbf8840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3610282eb833b4f34f30d8f33ac6ec1b') in 0.697363 seconds
+  Import took 0.732023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V01.prefab
+  artifactKey: Guid(114b26d9de9ea7343998657fa56d509b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_03_V01.prefab using Guid(114b26d9de9ea7343998657fa56d509b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c506c5f3a68f3344d017b3786477de') in 0.671890 seconds
+  Import took 0.684506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000743 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V02.prefab
+  artifactKey: Guid(2c3c7b33f3eea7b41811d1ba0f85d750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_01_V02.prefab using Guid(2c3c7b33f3eea7b41811d1ba0f85d750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d308348a04b14b2d1bc1653ba9ad66') in 0.260695 seconds
+  Import took 0.285269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V02.prefab
+  artifactKey: Guid(4746c779d712f6c489ec95435d4640b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_04_V02.prefab using Guid(4746c779d712f6c489ec95435d4640b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351dda1934ad8a15cbad7e43b29595a4') in 0.743953 seconds
+  Import took 0.759666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000811 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V01.prefab
+  artifactKey: Guid(d51217ff7da8a0542bbc82ad2e751041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_05_V01.prefab using Guid(d51217ff7da8a0542bbc82ad2e751041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d903264f3e0d0dde93b46bf2d16e30a') in 0.636160 seconds
+  Import took 0.684988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000793 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male
+  artifactKey: Guid(f12140c41102c4e43ab9a94f32399465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male using Guid(f12140c41102c4e43ab9a94f32399465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad235eaae3a5f4781602352e3f7190ff') in 0.063976 seconds
+  Import took 0.075095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V02.prefab
+  artifactKey: Guid(2a711c012aef2f4418b90b07195f0504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V02.prefab using Guid(2a711c012aef2f4418b90b07195f0504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644c1a2769a747d772a4463eaed06762') in 0.712610 seconds
+  Import took 0.744792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V01.prefab
+  artifactKey: Guid(1303fd13f88225042865a0a372afe3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Prefabs/Male/Male_06_V01.prefab using Guid(1303fd13f88225042865a0a372afe3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3621cdd055f595426be143499eeb428') in 0.711408 seconds
+  Import took 0.736723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.293256 seconds.
+  path: Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX
+  artifactKey: Guid(71f993a7d2584f640819734a788b56e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX using Guid(71f993a7d2584f640819734a788b56e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201264871380a5cc728fea4e4e879263') in 0.056941 seconds
+  Import took 0.063088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.442730 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_01
+  artifactKey: Guid(62509e19d8ab5b5459de8ae1e6c313f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_01 using Guid(62509e19d8ab5b5459de8ae1e6c313f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '687fba818f767d3ebd994ce51630cf89') in 0.075967 seconds
+  Import took 0.095916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.960541 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_01/V01/Female_01_V01.fbx
+  artifactKey: Guid(88ba486d780efc948a81f5bd24144a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_01/V01/Female_01_V01.fbx using Guid(88ba486d780efc948a81f5bd24144a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0f5a40e2904e820b9f12976e11f314') in 0.602096 seconds
+  Import took 0.615714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000732 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_01/V01
+  artifactKey: Guid(ab7653d4cae19fa4cbb14e22657f9c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_01/V01 using Guid(ab7653d4cae19fa4cbb14e22657f9c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab748cea87ee8d738e2546b308c9462c') in 0.061248 seconds
+  Import took 0.098543 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 2.391662 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 22.787 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.5 MB.
+System memory in use after: 134.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2111.
+Total: 58.739300 ms (FindLiveObjects: 0.250800 ms CreateObjectMapping: 0.067500 ms MarkObjects: 58.169600 ms  DeleteObjects: 0.248300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.147460 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.5 MB.
+System memory in use after: 134.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2114.
+Total: 2.673700 ms (FindLiveObjects: 0.226200 ms CreateObjectMapping: 0.052700 ms MarkObjects: 2.293600 ms  DeleteObjects: 0.099900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 452.042617 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_01/V02/Female_01_V02.fbx
+  artifactKey: Guid(5329596f87a19e443b297a306b9a7624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_01/V02/Female_01_V02.fbx using Guid(5329596f87a19e443b297a306b9a7624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683a19fdd2088a1eae5ba5fb26b6d248') in 9.710184 seconds
+  Import took 9.745318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.951771 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_02
+  artifactKey: Guid(044a822623b63a444ab2ec05bca119d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_02 using Guid(044a822623b63a444ab2ec05bca119d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87903285840bf31f0619640e0429d6a') in 0.105698 seconds
+  Import took 0.116376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.391145 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_02/V02
+  artifactKey: Guid(f13abc7a2ef2eab4ea4c81f1799b8039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_02/V02 using Guid(f13abc7a2ef2eab4ea4c81f1799b8039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6593e708df303fe7de87ed8d0388d67') in 0.065397 seconds
+  Import took 0.085054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_02/V02/Female_02_V02.fbx
+  artifactKey: Guid(293322dac04cbb940ad7567ac1e49d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_02/V02/Female_02_V02.fbx using Guid(293322dac04cbb940ad7567ac1e49d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c66e899f5e38a08b493900d80440f66') in 0.747341 seconds
+  Import took 0.765294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.366857 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_03
+  artifactKey: Guid(5822f5373e19dad4f8d3260010253bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_03 using Guid(5822f5373e19dad4f8d3260010253bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3620fc36de361b2489aef3a12b41f5e8') in 0.174278 seconds
+  Import took 0.219599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.893035 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_03/V02/Female_03_V02.fbx
+  artifactKey: Guid(cb8559960acbd5f439158ceeff88adbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_03/V02/Female_03_V02.fbx using Guid(cb8559960acbd5f439158ceeff88adbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9272d93719c5ceca4ef7089a6cf7372a') in 3.088751 seconds
+  Import took 3.109002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_03/V02
+  artifactKey: Guid(914b1c109d2674b4dbd2e82421d850d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_03/V02 using Guid(914b1c109d2674b4dbd2e82421d850d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37a6b8e46da100249c5b35e20aa8e6c') in 0.078771 seconds
+  Import took 0.123405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.783097 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Female/Female_03/V02
+  artifactKey: Guid(914b1c109d2674b4dbd2e82421d850d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Female/Female_03/V02 using Guid(914b1c109d2674b4dbd2e82421d850d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37a6b8e46da100249c5b35e20aa8e6c') in 0.005808 seconds
+  Import took 0.022017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.641103 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male
+  artifactKey: Guid(f098a1dfb828ca94ab7f1dfbc8a03323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male using Guid(f098a1dfb828ca94ab7f1dfbc8a03323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21ba7cf7761fdbd2b5dc6d97e34b4cf') in 0.134987 seconds
+  Import took 0.139612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.619676 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_03
+  artifactKey: Guid(4a0e3ba3dea3bdc48b58cf373595b72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_03 using Guid(4a0e3ba3dea3bdc48b58cf373595b72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7d546a6420f2147e162648e960aa0f') in 0.140033 seconds
+  Import took 0.162543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.896144 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_03/V02
+  artifactKey: Guid(0db16a6a5562ff840b5e9f47f94ac79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_03/V02 using Guid(0db16a6a5562ff840b5e9f47f94ac79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72065c2c64fa35ec00f0d26ba62923fe') in 0.007014 seconds
+  Import took 0.012868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031989 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_03/V02/Male_03_V02.fbx
+  artifactKey: Guid(9ff645f742c673a4c85b1db215b98e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_03/V02/Male_03_V02.fbx using Guid(9ff645f742c673a4c85b1db215b98e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e28b5c4c3e75e0e31a5b5686217920d') in 1.036878 seconds
+  Import took 1.052288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.728034 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_06
+  artifactKey: Guid(726743a7f73145940b293054ad6f051b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_06 using Guid(726743a7f73145940b293054ad6f051b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5721db6044d0fd1ce28337afc37824') in 0.079210 seconds
+  Import took 0.084519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.689363 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_06/V02
+  artifactKey: Guid(41897df40e56b8f49b75bcae09013f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_06/V02 using Guid(41897df40e56b8f49b75bcae09013f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff705937ba830172c299a17f4cc5b264') in 0.083067 seconds
+  Import took 0.087565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.752830 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_06/V02/Male_06_V02.fbx
+  artifactKey: Guid(2834dfd0c353c214b940f73920bee52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_06/V02/Male_06_V02.fbx using Guid(2834dfd0c353c214b940f73920bee52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59fa7eba95c520a1ce223a621914e49') in 0.633124 seconds
+  Import took 0.644237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_06/V02/Textures
+  artifactKey: Guid(c9d4fb66e1f888244ba1c4b1c0fce496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_06/V02/Textures using Guid(c9d4fb66e1f888244ba1c4b1c0fce496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f552b34ec5ceb78d3c71db9f1c5d1e2') in 0.050858 seconds
+  Import took 0.054696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.388849 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_05
+  artifactKey: Guid(b3d669fd28489a64cbd5dd752d920bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_05 using Guid(b3d669fd28489a64cbd5dd752d920bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e5aaf0770705e53327128de3f36b1d') in 0.077807 seconds
+  Import took 0.114795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.850929 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_05/V02/Male_05_V02.fbx
+  artifactKey: Guid(2a73beee6073db44383a00ec9d7110cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_05/V02/Male_05_V02.fbx using Guid(2a73beee6073db44383a00ec9d7110cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61151fd8f900f308b0ff414d92dcb11') in 0.635883 seconds
+  Import took 0.660866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_05/V02
+  artifactKey: Guid(e30e8592c49676c4894e4aee983d54df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_05/V02 using Guid(e30e8592c49676c4894e4aee983d54df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a126f758e9625cea59f03fd82f26f9b') in 0.014885 seconds
+  Import took 0.020136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.955132 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_01
+  artifactKey: Guid(8331ccc24a97385448e03f881b3606bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_01 using Guid(8331ccc24a97385448e03f881b3606bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9e447bcb7dcbda71f52d2832440b8e') in 0.098291 seconds
+  Import took 0.122454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.810231 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_01/V02
+  artifactKey: Guid(1f93f384d55271746983cec83c21ee05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_01/V02 using Guid(1f93f384d55271746983cec83c21ee05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1d6122312550f704df862d8b38fd08') in 0.033732 seconds
+  Import took 0.038235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001486 seconds.
+  path: Assets/SkythianCat/Glowing_Forest/Male/Male_01/V02/Male_01_V02.fbx
+  artifactKey: Guid(4296f97cc40b64240b45dee0e13ef0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkythianCat/Glowing_Forest/Male/Male_01/V02/Male_01_V02.fbx using Guid(4296f97cc40b64240b45dee0e13ef0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1777447cbfd53c975266698edf6b51cf') in 0.851556 seconds
+  Import took 0.856266 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.400446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.6 MB.
+System memory in use after: 134.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2118.
+Total: 277.566100 ms (FindLiveObjects: 10.022500 ms CreateObjectMapping: 0.190600 ms MarkObjects: 257.493500 ms  DeleteObjects: 9.854700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.064701 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.670 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1454 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.6 MB.
+System memory in use after: 134.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2121.
+Total: 35.144700 ms (FindLiveObjects: 0.284100 ms CreateObjectMapping: 0.080000 ms MarkObjects: 34.561900 ms  DeleteObjects: 0.215400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
